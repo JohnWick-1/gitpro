@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WyEZiesyYb3wf9JgvesAaOsdMz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +48,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1580115419226">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1580115419226" />
     <state x="229" y="0" key="SettingsEditor" timestamp="1580113682969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
